@@ -1,1 +1,1 @@
-DevOps plays a crucial role in SDLC by integrating development and operations, enabling faster and more reliable deployments. It ensures continuous feedback, which leads to improved product quality and faster delivery. -Kathan
+DevOps plays a crucial role in SDLC by integrating development and operations, enabling faster and more reliable deployments. It ensures continuous feedback, which leads to improved product quality and faster delivery.

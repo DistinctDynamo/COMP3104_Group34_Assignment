@@ -1,0 +1,6 @@
+George Brown's DevOps course COMP 3104 is important as it instills in students the importance of CI/CD, or
+continuous integration and continuous delivery. By the end of the course students will learn and experience tools and
+practices to deliver applications at a faster rate. Some concepts learned so far include horizontal vs vertical scaling, single
+page applications, and core principles related to DevOps. All of our learning will help us develop applications in a modern way
+improving our overal skill sets. Because Devops is a culture that bridges operation and development meaning that we do not need
+seperate teams for these purposes.

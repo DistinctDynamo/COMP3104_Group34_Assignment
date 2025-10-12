@@ -1,0 +1,7 @@
+DevOps is important to learn as when applied to the software development lifecycle it makes the steps easier to go through thanks to
+automation, continuous integration tools like github/gitlab lets the team see what others are working on improving pace of 
+the implementation phase. Jenkins with plugins can automate deployment and testing with a workflow that tests code changes in the
+repository and if there are no errors it releases the code to an environment thats ready for release. Since DevOps tools include
+error checking during the process of developing an application the maintenance phase is greatly shortened. The speed and constant
+knowledge between the team is thanks to DevOps being a offshoot of agile development which emphasizes constant communication
+and teamwork. 

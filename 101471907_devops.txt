@@ -1,1 +1,1 @@
-COMP 3104 is a DevOps course that introduces students to continuous integration, version control, and deployment practices. It helps students understand real-world development workflows using Git and CI/CD tools.
+COMP 3104 is a DevOps course that introduces students to continuous integration, version control, and deployment practices. It helps students understand real-world development workflows using Git and CI/CD tools. -Kathan

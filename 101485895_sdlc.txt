@@ -6,3 +6,7 @@ DevOps encourages collaboration in a way where
 programmers can split their workload with their
 peerse and simultaneously work on the same projects
 at the same time.
+This allows for faster development cycles since multiple
+people are working on the projects which also allows 
+programmers to get peers to review the code more intimately
+since they are also working on the sames files.

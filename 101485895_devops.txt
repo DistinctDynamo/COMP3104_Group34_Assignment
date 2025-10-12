@@ -1,0 +1,8 @@
+3104 - DevOps, short for Development Operations
+is a course that aims to students the procedures,
+protocols, and best practices in order to increaes
+productivity. 
+
+Students will also be taught how to analyze
+and evaluate various devops implementations available
+and implement hands-on work using industry standard toolkit.

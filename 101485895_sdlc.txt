@@ -1,0 +1,3 @@
+DevOps is important in software development cycles
+because it allows programmers to more efficiently
+and effictively develop their programs.
